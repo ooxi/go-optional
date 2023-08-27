@@ -12,7 +12,6 @@ clean:
 		rm 'go.sum';		\
 	fi
 
-	mkdir --parents 'target'
 	go clean -testcache
 
 

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Zlib
 package optional
 
 // A container object which may or may not contain a non-nil value. If a value
