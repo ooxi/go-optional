@@ -1,0 +1,9 @@
+---
+base: fedora:38
+install:
+ - golang
+ - golang-godoc
+ - make
+publish:
+ - 6060:6060
+---
